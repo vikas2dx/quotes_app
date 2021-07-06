@@ -1,16 +1,6 @@
-# qutoes_app
+# Screenshot![Screenshot_1625572096](https://user-images.githubusercontent.com/25080612/124595470-b0e56000-de7e-11eb-82a0-6c5253c3ca74.png)
+![Screenshot_1625572089](https://user-images.githubusercontent.com/25080612/124595473-b2af2380-de7e-11eb-9afe-88f096d0ec20.png)
+![Screenshot_1625572076](https://user-images.githubusercontent.com/25080612/124595476-b3e05080-de7e-11eb-9b54-795df4eb05ad.png)
+![Screenshot_1625572072](https://user-images.githubusercontent.com/25080612/124595484-b5117d80-de7e-11eb-9cd9-e55ab657a875.png)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
